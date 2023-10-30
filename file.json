@@ -1,0 +1,25 @@
+{
+    "dinosaurs": [
+        {
+            "name": "Tyrannosaurus rex",
+            "period": "Late Cretaceous",
+            "diet": "Carnivore",
+            "size": "40 feet in length",
+            "interesting_fact": "One of the largest land predators ever."
+        },
+        {
+            "name": "Stegosaurus",
+            "period": "Late Jurassic",
+            "diet": "Herbivore",
+            "size": "30 feet in length",
+            "interesting_fact": "Known for its distinctive double row of large bony plates on its back."
+        },
+        {
+            "name": "Triceratops",
+            "period": "Late Cretaceous",
+            "diet": "Herbivore",
+            "size": "30 feet in length",
+            "interesting_fact": "Characterized by its three facial horns and a bony frill at the back of its head."
+        }
+    ]
+}
