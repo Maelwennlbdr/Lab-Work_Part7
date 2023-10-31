@@ -20,6 +20,27 @@
             "diet": "Herbivore",
             "size": "30 feet in length",
             "interesting_fact": "Characterized by its three facial horns and a bony frill at the back of its head."
+        },
+        {
+            "name": "Velociraptor",
+            "period": "Late Cretaceous",
+            "diet": "Carnivore",
+            "size": "6.8 feet in length",
+            "interesting_fact": "Popularly known for their portrayal in the Jurassic Park movies."
+        },
+        {
+            "name": "Brachiosaurus",
+            "period": "Late Jurassic",
+            "diet": "Herbivore",
+            "size": "85 feet in length",
+            "interesting_fact": "Known for its long neck and large size."
+        },
+        {
+            "name": "Pterodactyl",
+            "period": "Late Jurassic",
+            "diet": "Carnivore",
+            "size": "5 feet wingspan",
+            "interesting_fact": "Not a dinosaur, but a type of flying reptile."
         }
     ]
 }
