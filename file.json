@@ -1,46 +1,40 @@
 {
-    "dinosaurs": [
+    "prehistoricCreatures": [
         {
             "name": "Tyrannosaurus rex",
             "period": "Late Cretaceous",
             "diet": "Carnivore",
-            "size": "40 feet in length",
-            "interesting_fact": "One of the largest land predators ever."
+            "image_url": "https://your-image-source/tyrannosaurus-rex.jpg"
         },
         {
             "name": "Stegosaurus",
             "period": "Late Jurassic",
             "diet": "Herbivore",
-            "size": "30 feet in length",
-            "interesting_fact": "Known for its distinctive double row of large bony plates on its back."
+            "image_url": "https://your-image-source/stegosaurus.jpg"
         },
         {
             "name": "Triceratops",
             "period": "Late Cretaceous",
             "diet": "Herbivore",
-            "size": "30 feet in length",
-            "interesting_fact": "Characterized by its three facial horns and a bony frill at the back of its head."
+            "image_url": "https://your-image-source/triceratops.jpg"
         },
         {
             "name": "Velociraptor",
             "period": "Late Cretaceous",
             "diet": "Carnivore",
-            "size": "6.8 feet in length",
-            "interesting_fact": "Popularly known for their portrayal in the Jurassic Park movies."
+            "image_url": "https://your-image-source/velociraptor.jpg"
         },
         {
             "name": "Brachiosaurus",
             "period": "Late Jurassic",
             "diet": "Herbivore",
-            "size": "85 feet in length",
-            "interesting_fact": "Known for its long neck and large size."
+            "image_url": "https://your-image-source/brachiosaurus.jpg"
         },
         {
             "name": "Pterodactyl",
             "period": "Late Jurassic",
             "diet": "Carnivore",
-            "size": "5 feet wingspan",
-            "interesting_fact": "Not a dinosaur, but a type of flying reptile."
+            "image_url": "https://your-image-source/pterodactyl.jpg"
         }
     ]
 }
