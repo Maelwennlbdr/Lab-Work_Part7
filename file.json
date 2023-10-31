@@ -4,37 +4,37 @@
             "name": "Tyrannosaurus rex",
             "period": "Late Cretaceous",
             "diet": "Carnivore",
-            "image_url": "https://your-image-source/tyrannosaurus-rex.jpg"
+            "image_url": "https://maelwennlbdr.github.io/Lab-Work_Part7/images/tyrannosaurus-rex.webp"
         },
         {
             "name": "Stegosaurus",
             "period": "Late Jurassic",
             "diet": "Herbivore",
-            "image_url": "https://your-image-source/stegosaurus.jpg"
+            "image_url": "https://maelwennlbdr.github.io/Lab-Work_Part7/images/stegosaurus.webp"
         },
         {
             "name": "Triceratops",
             "period": "Late Cretaceous",
             "diet": "Herbivore",
-            "image_url": "https://your-image-source/triceratops.jpg"
+            "image_url": "https://maelwennlbdr.github.io/Lab-Work_Part7/images/triceratops.webp"
         },
         {
             "name": "Velociraptor",
             "period": "Late Cretaceous",
             "diet": "Carnivore",
-            "image_url": "https://your-image-source/velociraptor.jpg"
+            "image_url": "https://maelwennlbdr.github.io/Lab-Work_Part7/images/velociraptor.webp"
         },
         {
             "name": "Brachiosaurus",
             "period": "Late Jurassic",
             "diet": "Herbivore",
-            "image_url": "https://your-image-source/brachiosaurus.jpg"
+            "image_url": "https://maelwennlbdr.github.io/Lab-Work_Part7/images/brachiosaurus.jpeg"
         },
         {
             "name": "Pterodactyl",
             "period": "Late Jurassic",
             "diet": "Carnivore",
-            "image_url": "https://your-image-source/pterodactyl.jpg"
+            "image_url": "https://maelwennlbdr.github.io/Lab-Work_Part7/images/pterodactyl.jpeg"
         }
     ]
 }
