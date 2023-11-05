@@ -3,4 +3,4 @@
 Albane COiffe - Alexandre Bussiere - Maelwenn Labidurie
 
 
-https://maelwennlbdr.github.io/Lab-Work_Part7/html/index.html
+https://maelwennlbdr.github.io/Lab-Work_Part7/index.html
